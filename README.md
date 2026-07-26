@@ -1,6 +1,6 @@
 # Superstore Loss Analysis: Why Does the "Binders" Category Lose Money?
 
-A formula-based diagnostic analysis of a 10,000-row retail dataset, built entirely in Excel — no pivot tables, no Power Query, just verified formulas.
+A formula-based diagnostic analysis of a 10,000-row retail dataset — built and verified entirely in Excel.
 
 ## The Finding
 
@@ -46,4 +46,4 @@ Excel (formulas + Power Query for import correction)
 
 ---
 
-*Part of a structured data analytics learning path — [see my LinkeIn profile](https://www.linkedin.com/in/orland-brito-19185639a/) for more.*
+*Part of a structured data analytics learning path — [see my LinkedIn profile](https://www.linkedin.com/in/orland-brito-19185639a/) for more.*
