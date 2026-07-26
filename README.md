@@ -46,4 +46,4 @@ Excel (formulas + Power Query for import correction)
 
 ---
 
-*Part of a structured data analytics learning path — [see my profile](https://www.linkedin.com/in/orland-brito-19185639a/) for more.*
+*Part of a structured data analytics learning path — [see my LinkeIn profile](https://www.linkedin.com/in/orland-brito-19185639a/) for more.*
