@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Orland 👋
 
-<!--
-**OrlandBritoDev/orlandBritoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student turning into a Data Analyst — deliberately.
 
-Here are some ideas to get you started:
+I work through real datasets end-to-end: cleaning, formula-based analysis,
+and business questions with verified answers — not just "the code runs."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently: working through Excel → SQL → Python → Power BI
+
+🔍 Recent finding: traced a $38.5K product-line loss to a 74% average
+   discount rate on failed transactions — [see the analysis →](link-al-repo)
+
+🌎 Based in Venezuela (UTC-4) — open to remote roles aligned with US hours
+
+🔧 Tools: Excel · SQL (DBeaver/SQLite) · Python (pandas, numpy, matplotlib) · Power BI
+
+📫 [LinkedIn](www.linkedin.com/in/orland-brito-19185639a)
