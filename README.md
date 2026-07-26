@@ -14,4 +14,4 @@ and business questions with verified answers — not just "the code runs."
 
 🔧 Tools: Excel · SQL (DBeaver/SQLite) · Python (pandas, numpy, matplotlib) · Power BI
 
-📫 [LinkedIn](www.linkedin.com/in/orland-brito-19185639a)
+📫 [LinkedIn](https://www.linkedin.com/in/orland-brito-19185639a/)
