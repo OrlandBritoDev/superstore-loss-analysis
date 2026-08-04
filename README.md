@@ -57,4 +57,4 @@ Excel (formulas, Power Query, Box & Whisker charts)
 
 ---
 
-*Part of a structured data analytics learning path — [see my Linkedin profile](https://www.linkedin.com/in/orland-brito-19185639a/) for more.*
+*Part of a structured data analytics learning path — [see my LinkedIn profile](https://www.linkedin.com/in/orland-brito-19185639a/) for more.*
